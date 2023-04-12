@@ -35,6 +35,7 @@ body{
 .first1{
     padding-left: 10%;
     padding-right: 10% ;
+     padding-bottom: 3%;
     display: flex;
     background-color: #e0f0f0;;
 }
@@ -78,6 +79,8 @@ button{
 .blocks{
     padding-left: 10%;
     padding-right: 10% ;
+     padding-top: -3%;
+    margin-top: -3%;
     display: flex;
     justify-content: space-between;
     align-items: center;
